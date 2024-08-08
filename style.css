@@ -464,6 +464,14 @@ form .send-btn:hover{
         width: 100%;
     }
 }
+@media (max-width: 580px){
+    form .send-btn{
+        padding: 5px 10px;
+        font-size: 15px;
+        font-weight: 600;
+        width: 40%;
+    }
+}
 @media (max-width: 470px){
     :root{
         --h1-font: 3rem;
@@ -478,12 +486,5 @@ form .send-btn:hover{
         object-fit: cover;
         margin: 0 auto;
     }
-    form .send-btn{
-        padding: 9px 13px;
-        font-size: 15px;
-    }
-        
-    
-
 }
     
