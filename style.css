@@ -478,6 +478,12 @@ form .send-btn:hover{
         object-fit: cover;
         margin: 0 auto;
     }
+    form .send-btn{
+        padding: 9px 13px;
+        font-size: 15px;
+    }
+        
+    
 
 }
     
